@@ -5,13 +5,13 @@ The code deployed here was developed using MATLAB Inc. Using the academic licenc
 
 Contact Us For support, technical issues, bug reports etc., please contact Cristal Zuniga (cristalzucsd@gmail.com or cristal7n@gmail.com).
 
-CM-models contains:
+CM-models.mat contains:
 CM-model S. elongatus-B. subtilis, iCZ-Se-Bs(1629)
 CM-model S. elongatus -E. coli K-12, iCZ-Se-EcK-12(2152)
 CM-model S. elongatus -E. coli W, iCZ-Se-EcW(2157)
 CM-model S. elongatus –Y. lipolytica, iCZ-Se-Yl(1686)
 
-M-models contains:
+M-models.mat contains:
 M-model S. elongatus
 M-model S. elongatus cscB+
 M-model B. subtilis
