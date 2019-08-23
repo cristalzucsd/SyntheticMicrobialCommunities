@@ -1,4 +1,13 @@
 # SyntheticMicrobialCommunities
+Designing synthetic microbial communities of heterotrophs and phototrophs for bioproduction
+Cristal Zuñiga1, TingTing Li2, Michael T. Guarnieri3, Jackson P. Jenkins2, Chien-Ting Li2, Michael J. Betenbaugh2, Karsten Zengler*1,4,5
+
+1 Department of Pediatrics, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0760, USA
+2 Department of Chemical and Biomolecular Engineering, The Johns Hopkins University, 3400 North Charles Street, Baltimore, MD 21218, USA 
+3. National Bioenergy Center, National Renewable Energy Laboratory, Golden, CO 80401, USA
+4 Center for Microbiome Innovation, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0403, USA
+5 Department of Bioengineering, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0412, USA
+
 Microbial communities were rationally assembled as bioproduction platforms. The metabolic models of a sucrose-secreting Synechococcus elongatus, two strains of Escherichia coli, Yarrowia lipolytica, and Bacillus subtilis were paired in phototroph-heterotroph combinations. 
 
 The code deployed here was developed using MATLAB Inc. Using the academic licence for UC-San Diego.
