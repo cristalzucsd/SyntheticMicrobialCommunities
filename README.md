@@ -1,5 +1,5 @@
 # SyntheticMicrobialCommunities
-Designing synthetic microbial communities of heterotrophs and phototrophs for bioproduction
+Synthetic microbial communities of heterotrophs and phototrophs facilitate sustainable biotechnology
 Cristal Zuñiga1, TingTing Li2, Michael T. Guarnieri3, Jackson P. Jenkins2, Chien-Ting Li2, Michael J. Betenbaugh2, Karsten Zengler*1,4,5
 
 1. Department of Pediatrics, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0760, USA.
@@ -12,7 +12,7 @@ Microbial communities were rationally assembled as bioproduction platforms. The 
 
 The code deployed here was developed using MATLAB Inc. Using the academic licence for UC-San Diego.
 
-Contact Us For support, technical issues, bug reports etc., please contact Cristal Zuniga (cristalzucsd@gmail.com or cristal7n@gmail.com).
+Contact Us For support, technical issues, bug reports etc., please contact Cristal Zuniga (crzuniga@ucsd.edu, cristalzucsd@gmail.com or cristal7n@gmail.com).
 
 CM-models.mat contains:
 CM-model S. elongatus-B. subtilis, iCZ-Se-Bs(1629)
